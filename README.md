@@ -17,5 +17,5 @@
 6. [Part4: Word2Vec notebook](Part3-lookup.ipynb)
 7. [Part5: Subsampling](Part5-subsampling.md)
 8. [Part5: Subsampling Notebook](Part5-subsampling.ipynb)
-9. [Part6: Adding up all for Skip-Gram Model](Part7-assignment-skip_gram.ipynb)
+9. [Part6: Adding up all for Skip-Gram Model](Part7-assignment-skip_gram.ipynb)  
 10 [Part7: Assignment](Part8-assignment-skip_gram_data.ipynb)
