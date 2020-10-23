@@ -14,8 +14,7 @@
 4. [Part3: Word2Vec model](Part3-Word_2_Vec.md)
    * CBOW(Continous bag of words)
    * Skip-Gram
-5. [Part4: Lookup tables](Part3-lookup.md)
-6. [Part4: Create Lookup table notebook](Part3-lookup.ipynb)
+6. [Part4: Word2Vec notebook](Part3-lookup.ipynb)
 7. [Part5: Subsampling](Part5-subsampling.md)
 8. [Part5: Subsampling Notebook](Part5-subsampling.ipynb)
 9. [Part6: Creating batches for Skip Gram Model](Part6-batches.md)
