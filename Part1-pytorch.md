@@ -42,5 +42,5 @@ PyTorch provides two high-level features:
 * Deep neural networks built on a tape-based automatic differentiation system.
 
 
-
+# For more information:https://medium.com/modern-nlp/get-pro-in-pytorch-for-nlp-60352b51fa1e
   
